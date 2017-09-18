@@ -1,5 +1,5 @@
 # Katherine's Map Portfolio
-
+This map portfolio includes maps created in the GEOG 6370 lab at the University of Georgia.
 
 # Table of Contents
 
