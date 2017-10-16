@@ -9,3 +9,8 @@ Historical Sites, Athens-Clarke County, 2000
 Aspect Map - University of Georgia - Athens-Clarke County, GA
   Lap4_Map.pdf
  
+Historical Schools - Downtown Athens, GA
+  Lab5_Map1.pdf
+
+Elementary Schools - West Chester, PA - Study Area
+  Lab5_Map2.pdf
