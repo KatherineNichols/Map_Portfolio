@@ -14,3 +14,12 @@ Historical Schools - Downtown Athens, GA
 
 Elementary Schools - West Chester, PA - Study Area
   Lab5_Map2.pdf
+
+Satisfactory Locations for Training Center - Clarke-County, GA
+  Lab7_Map.pdf
+  
+Suitability Analysis Results for the Location of a New Training Center in Athens, Clarke-County, GA
+  Lab8_Map.pdf
+  
+Nighttime Population and Hospital Service Areas, City of Atlanta, GA
+  Lab9_Map.pdf
