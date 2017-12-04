@@ -23,3 +23,6 @@ Suitability Analysis Results for the Location of a New Training Center in Athens
   
 Nighttime Population and Hospital Service Areas, City of Atlanta, GA
   Lab9_Map.pdf
+
+Ideal Living Locations in Chester County, PA
+  Lab12_Ideal Living in Chester.pdf
